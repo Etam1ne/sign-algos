@@ -1,0 +1,20 @@
+{
+  "name": "sign-algos",
+  "version": "1.0.0",
+  "description": "RSA and ElGamal signature algorithms",
+  "keywords": ["RSA", "ElGamal", "signature", "algorithms", "crypto"],
+  "homepage": "https://github.com/Etam1ne/sign-algos#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Etam1ne/sign-algos.git"
+  },
+  "bugs": { 
+    "url" : "https://github.com/Etam1ne/sign-algos/issues"
+  },
+  "dependencies": {
+    "big-integer": "^1.6.51"
+  },
+  "main": "src/index.js",
+  "author": "etamine",
+  "license": "MIT"
+}
